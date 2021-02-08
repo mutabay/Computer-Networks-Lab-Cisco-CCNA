@@ -1,0 +1,92 @@
+
+Switch>enable
+Switch#conf
+Switch#configure ter
+Switch#configure terminal 
+Enter configuration commands, one per line.  End with CNTL/Z.
+Switch(config)#no enab
+Switch(config)#no enable sec
+Switch(config)#no enable secret 
+Switch(config)#no ser
+Switch(config)#no service 
+% Incomplete command.
+Switch(config)#no service pas
+Switch(config)#no service password-encryption 
+Switch(config)#no en
+Switch(config)#no enable sec
+Switch(config)#no enable secret 
+Switch(config)#enable 
+Switch(config)#enable as
+Switch(config)#enable pas
+Switch(config)#enable password class
+Switch(config)#line
+Switch(config)#line con
+Switch(config)#line console 0
+Switch(config-line)#passs
+Switch(config-line)#passw
+Switch(config-line)#password cisco
+Switch(config-line)#log
+Switch(config-line)#logg
+Switch(config-line)#logging syn
+Switch(config-line)#logging synchronous 
+Switch(config-line)#exec-time
+Switch(config-line)#exec-timeout 0 0
+Switch(config-line)#login
+Switch(config-line)#exit
+Switch(config)#line vty 0 15
+Switch(config-line)#pass
+Switch(config-line)#password cisc
+Switch(config-line)#password cisco
+Switch(config-line)#log
+Switch(config-line)#logg
+Switch(config-line)#logging syn
+Switch(config-line)#logging synchronous 
+Switch(config-line)#exec
+Switch(config-line)#exec-timeout 0 0
+Switch(config-line)#log
+Switch(config-line)#login
+Switch(config-line)#exit
+Switch(config)#interf
+Switch(config)#interface vlan 1
+Switch(config-if)#ip add
+Switch(config-if)#ip address 192.168.4.49 255.255.255.0
+Switch(config-if)#no shut
+Switch(config-if)#no shutdown 
+
+Switch(config-if)#
+%LINK-5-CHANGED: Interface Vlan1, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface Vlan1, changed state to up
+
+Switch(config-if)#
+%LINK-5-CHANGED: Interface FastEthernet0/23, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/23, changed state to up
+
+Switch(config-if)#exit
+Switch(config)#ip dom
+Switch(config)#ip doma
+Switch(config)#ip domain-name
+Switch(config)#ip domain-name ccna-lab.com
+Switch(config)#host
+Switch(config)#hostname S_4
+S_4(config)#inter
+S_4(config)#interface range Fa 0/1, Fa0/11, Fa 0/23
+S_4(config-if-range)#no shu
+S_4(config-if-range)#no shutdown 
+S_4(config-if-range)#end
+S_4#
+%SYS-5-CONFIG_I: Configured from console by console
+
+S_4#inter
+S_4#interf
+S_4#co
+S_4#conf
+S_4#configure ter
+S_4#configure terminal 
+Enter configuration commands, one per line.  End with CNTL/Z.
+S_4(config)#inter
+S_4(config)#interface vlan 99
+S_4(config-if)#ip addre
+S_4(config-if)#ip address 192.168.4.49 255.255.255.0
+S_4(config-if)#no shutdown
