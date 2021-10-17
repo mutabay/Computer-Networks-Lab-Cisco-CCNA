@@ -3,7 +3,7 @@ Documentations of labs of Computer Networks Course ( Cisco CCNA 1 - 2)
 
 // Lab 01 - Organizational Information. [ There is no document ]
 
-// Lab 02 - Phisical layer - Media. Making the UTP cables.
+// Lab 02 - Physical layer - Media. Making the UTP cables.
 
 // Lab 03 - Data Link Layer -  Ethernet frame
 
