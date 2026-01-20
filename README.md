@@ -1,37 +1,57 @@
-# Computer-Networks-Lab---Cisco-CCNA-
+# Computer Networks Lab - Cisco CCNA
 
-<hr>
+Laboratory documentation for Computer Networks course (Cisco CCNA 1-2)
 
+## 📋 Overview
 
-Documentations of labs of Computer Networks Course ( Cisco CCNA 1 - 2)
+Hands-on network configuration and troubleshooting exercises covering fundamental networking concepts, protocols, and Cisco device configuration.
 
-> Lab 01 - Organizational Information. [ There is no document ]
+## 📂 Laboratory Assignments
 
-> Lab 02 - Physical layer - Media. Making the UTP cables.
+- **Lab 1** - Course orientation
+- **[Lab 2](2/)** - Physical layer: UTP cable construction
+- **[Lab 3](3/)** - Data Link layer: Ethernet frame analysis
+- **[Lab 4](4/)** - Network layer: IP, VLSM, ICMP, DNS utilities
+- **[Lab 6](6/)** - Transport layer: TCP and UDP protocols
+- **[Lab 7](7/)** - Router architecture and basic device configuration
+- **[Lab 8](8/)** - Device security, IOS backup, password recovery
+- **[Lab 9](9/)** - Cisco Catalyst 2960 switch configuration and VLANs
+- **[Lab 10](10/)** - Static routing (IPv4 and IPv6)
+- **[Lab 11](11/)** - VLAN configuration and trunking
+- **[Lab 12](12/)** - Inter-VLAN routing configuration
+- **[Lab 13](13/)** - DHCP protocol implementation
+- **[Lab 14](14/)** - Spanning Tree Protocol (STP)
 
-> Lab 03 - Data Link Layer -  Ethernet frame
+## 🎯 Key Topics
 
-> Lab 04 - Network Layer - The Internet Protocol - part 2. VLSM, ICMP, DNS. Traceroute, pathping, nslookup
+**Network Fundamentals:**
+- OSI model layers (Physical, Data Link, Network, Transport)
+- IP addressing and subnetting (VLSM)
+- Network protocols (ICMP, DNS, DHCP)
 
-> Lab 05 - Network Layer - The Internet protocol. Addressing, division into subnet, variable subnet mask (VLSM)
+**Cisco Device Configuration:**
+- Router and switch setup
+- VLAN configuration and management
+- Security and access control
+- IOS management and backup
 
-> Lab 06 - Transport Layer - IP transport protocols: TCP, UDP
+**Routing & Switching:**
+- Static routing (IPv4/IPv6)
+- Inter-VLAN routing
+- Spanning Tree Protocol
+- Network troubleshooting tools
 
-> Lab 07 - Architecture of network active devices. Internal construction of the router. Basic router and switch configuration.
+## 🛠️ Tools & Technologies
 
-> Lab 08 - Securing network devices against unauthorized access. Configuration and IOS backup. Password recovery
+- Cisco Packet Tracer
+- Cisco IOS
+- Network diagnostic utilities (traceroute, pathping, nslookup)
 
-> Lab 09 - Configuration of the Cisco Catalyst 2960 switch: port parameters, static addresses, ports securing, VLANs. Parameterization of SSH connection.
+## 📚 Course Coverage
 
-> Lab 10 - Static routing in IPv4 and IPv6 environment
-Final CCNA 1 test should be done before this lab
+**CCNA 1**: Network fundamentals and basic configuration  
+**CCNA 2**: Routing, switching, and advanced topics
 
-> Lab 11 - Basic VLAN configuration . VLAN connection via dedicated links. VLAN connection via trunk link.
+---
 
-> Lab 12 - Basic configuration of the router, routing between VLANs through dedicated ports or through 802.1q trunk port.
-
-> Lab 13 - Dynamic address configuration using DHCP protocol.
-
-> Lab 14 - Spanning Tree Protocol - STP.
-
-
+*Practical networking skills with Cisco equipment and protocols*
